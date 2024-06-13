@@ -19,6 +19,7 @@ unsigned int
 #define gib malloc
 #define glaze printf
 #define Yappify strcpy
+#define Gyatt sizeof
 
 typedef int Sigma;
 typedef std::string Yap;
@@ -29,3 +30,4 @@ typedef unsigned int Beta;
 typedef long Omega;
 typedef float Toilet; 
 typedef char* yap;
+typedef bool Crodie;
